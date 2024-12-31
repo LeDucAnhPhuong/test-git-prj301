@@ -1,7 +1,9 @@
 import React from "react";
 
 const test = () => {
-  return <div>jjjjjjj</div>;
-};
+  return (
+    <div>test123@@#=</div>
+  )
+}
 
 export default test;
