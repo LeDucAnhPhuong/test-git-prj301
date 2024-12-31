@@ -1,10 +1,8 @@
-import React from 'react'
+import React from "react";
 
 const test = () => {
   return (
-    <div>phanduong1111ðððððððð</div>
+    <div>phanduong</div>
     
   )
 }
-
-export default test
